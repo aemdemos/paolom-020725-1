@@ -45,12 +45,6 @@
       "id": "ea7eb16d67cfbaaef306533ddfe915a8f4730012"
     },
     {
-      "url": "https://wknd-trendsetters.webflow.io/fashion-trends",
-      "source": "SITEMAPS",
-      "targetPath": "/fashion-trends",
-      "id": "54cbaba209d3c4fdc773c149335d226f500dd659"
-    },
-    {
       "url": "https://wknd-trendsetters.webflow.io/fashion-trends-of-the-season",
       "source": "SITEMAPS",
       "targetPath": "/fashion-trends-of-the-season",
@@ -73,12 +67,6 @@
       "source": "SITEMAPS",
       "targetPath": "/latest-trends-young-fashion",
       "id": "f75120b4c802db89d4360cdfd336761819180703"
-    },
-    {
-      "url": "https://wknd-trendsetters.webflow.io/style-guide",
-      "source": "SITEMAPS",
-      "targetPath": "/style-guide",
-      "id": "58023be5e536317d3c633e68ccd5b69f9bd546e5"
     }
   ],
   "crawlOptions": {
